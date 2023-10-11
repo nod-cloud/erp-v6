@@ -4,14 +4,6 @@
 # 点可云ERP-开源进销存系统
  :exclamation:  :exclamation:  :exclamation: 请注意：这是商业版本更新替换下来的。  纯上一个商业版本。
 
-
-
-#### :fa-search-plus:  系统演示
-
-
-#### V6开源 （当前项目）
-[http://v6.yimiaonet.com/](http://v6.yimiaonet.com/)   帐号：admin   密码：admin888
-
 ###  :fa-check-square-o: 另有V7全新商业版
 [https://erp.nodcloud.com/](https://erp.nodcloud.com/#/#git)   
 V7全新商业版（V7版是付费的 售价299起） 采用tp+vue开发，速度更流畅，功能更齐全。 
@@ -77,8 +69,6 @@ thinkphp+layui
 > 如提示登录失败， 请配置伪静态  
 至此 安装完成，请进行体验吧！
 
-![输入图片说明](%E9%A2%84%E8%A7%88%E6%88%AA%E5%9B%BE/image.png)
-
 
 ## :tw-1f50a:  开源版使用须知
 版权信息
@@ -91,21 +81,6 @@ thinkphp+layui
 
 #### :clap:  系统截图
 
-![输入图片说明](%E9%A2%84%E8%A7%88%E6%88%AA%E5%9B%BE/%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](%E9%A2%84%E8%A7%88%E6%88%AA%E5%9B%BE/%E9%9B%B6%E5%94%AE%E5%8D%95%E6%94%B6%E9%93%B6%E5%8F%B0.png)
-![输入图片说明](%E9%A2%84%E8%A7%88%E6%88%AA%E5%9B%BE/%E9%9B%B6%E5%94%AE1.png)
-![输入链接说明](%E9%A2%84%E8%A7%88%E6%88%AA%E5%9B%BE/%E9%94%80%E8%B4%A7%E5%8D%95.png)
-![输入图片说明](%E9%A2%84%E8%A7%88%E6%88%AA%E5%9B%BE/%E9%87%87%E8%B4%AD%E8%AE%A2%E5%8D%95.png)
-![输入图片说明](%E9%A2%84%E8%A7%88%E6%88%AA%E5%9B%BE/%E9%87%87%E8%B4%AD%E5%85%A5%E5%BA%93%E5%8D%95.png)
-![输入图片说明](%E9%A2%84%E8%A7%88%E6%88%AA%E5%9B%BE/%E8%B4%AD%E8%B4%A7%E5%8D%95.png)
-![输入图片说明](%E9%A2%84%E8%A7%88%E6%88%AA%E5%9B%BE/%E5%AE%A2%E6%88%B7%E7%AE%A1%E7%90%86.png)
 
-
-
-
-
-## V7全新商业版功能介绍
-
-![输入图片说明](%E9%A2%84%E8%A7%88%E6%88%AA%E5%9B%BE/V7.png)
 
 
