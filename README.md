@@ -19,9 +19,10 @@ V7全新商业版（V7版是付费的 售价299起） 采用tp+vue开发，速�
 
 #### :fa-weixin:  联系我们
 
-官网qq群：[点可云软件中心](https://jq.qq.com/?_wv=1027&k=kJlp82a5)
-
-官网客服qq：29139260   ，  客服微信：diycloud
+### 欢迎添加官网qq群：280470323 
+### 客服qq：507758588 
+### 客服微信：scxzmt996 
+### 商业版官网：www.nodcloud.com
 
 #### :fa-thumb-tack:  介绍
 点可云进销存系统，基于thinkphp+layui开发。
@@ -68,9 +69,6 @@ thinkphp+layui
 -辅助资料
 -高级设置
 ```
-
-![输入图片说明](%E9%A2%84%E8%A7%88%E6%88%AA%E5%9B%BE/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220730161910.png)
-
 
 #### :fa-smile-o:  安装教程
 
