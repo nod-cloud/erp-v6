@@ -4,17 +4,19 @@
 # 点可云ERP-开源进销存系统
  :exclamation:  :exclamation:  :exclamation: 请注意：这是商业版本更新替换下来的。  纯上一个商业版本。
 
+
 ###  :fa-check-square-o: 另有V7全新商业版
-[https://erp.nodcloud.com/](https://erp.nodcloud.com/#/#git)   
-V7全新商业版（V7版是付费的 售价299起） 采用tp+vue开发，速度更流畅，功能更齐全。 
+[https://erp.nodcloud.com/](https://erp.nodcloud.com/)   
+V7全新商业版（V7版是付费的 售价299起） 采用tp6+vue2开发，速度更流畅，功能更齐全。 
 
 
 #### :fa-weixin:  联系我们
 
-### 欢迎添加官网qq群：280470323 
-### 客服qq：507758588 
-### 客服微信：scxzmt996 
-### 商业版官网：www.nodcloud.com
+## 欢迎添加官网qq群：280470323 
+## 客服qq：507758588 
+## 客服微信：scxzmt996 
+## 商业版官网：www.nodcloud.com
+
 
 #### :fa-thumb-tack:  介绍
 点可云进销存系统，基于thinkphp+layui开发。
@@ -62,12 +64,25 @@ thinkphp+layui
 -高级设置
 ```
 
-#### :fa-smile-o:  安装教程
+####  **功能导图** 
 
-下载安装包，直接输入 http://www.你的网址.com/install/
-然后输入你的数据库信息。 
-> 如提示登录失败， 请配置伪静态  
-至此 安装完成，请进行体验吧！
+
+![输入图片说明](view/gndaotu.png)
+
+
+#### :fa-smile-o:  安装提示
+
+> V6版本运行环境  PHP：5.6-7.3   MySQL： 5.6-5.7
+
+> 如安装成功点击没反应，需配置伪静态thinkphp
+
+> 保存提示错误信息，查看是否关闭数据库严格模式
+
+> 点可云ERP教程 - PHPstudy安装篇 www.bilibili.com/video/BV1VT411Q7kV
+
+> 点可云ERP教程 - 宝塔安装篇 www.bilibili.com/video/BV1As4y1Y7Ps
+
+> 点可云ERP教程—关闭数据库严格模式  www.bilibili.com/video/BV1F54y1A7Vc
 
 
 ## :tw-1f50a:  开源版使用须知
@@ -79,8 +94,27 @@ thinkphp+layui
 3. 禁止将本项目的代码和资源进行任何形式的出售，产生的一切任何后果责任由侵权者自负。
 
 
-#### :clap:  系统截图
+#### :clap:  系统使用截图
+
+> 具体使用说明可点击下载查阅 https://share.weiyun.com/6qxJU0FA
+
+![输入图片说明](view/cg.png)
+![输入图片说明](view/gh.png)
+![输入图片说明](view/ghtu.png)
+![输入链接说明](view/ls1.png)
+![输入图片说明](view/ls2.png)
+![输入图片说明](view/fwd.png)
+![输入图片说明](view/kccx.png)
+![输入图片说明](view/kcpd.png)
+![输入图片说明](view/kcyj.png)
+![输入图片说明](view/skd.png)
+![输入图片说明](view/hxd.png)
+![输入图片说明](view/zidb.png)
+![输入图片说明](view/splr.png)
 
 
+## 点可云ERP进销存V7全新商业版功能介绍
+
+![输入图片说明](view/V7.png)
 
 
