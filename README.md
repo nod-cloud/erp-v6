@@ -5,12 +5,12 @@
  :exclamation:  :exclamation:  :exclamation: 请注意：这是商业版本更新替换下来的。  纯上一个商业版本。
 
 
-###  :fa-check-square-o: 另有V7全新商业版
+###  : 另有V7全新商业版
 [https://erp.nodcloud.com/](https://erp.nodcloud.com/)   
 V7全新商业版（V7版是付费的 售价299起） 采用tp6+vue2开发，速度更流畅，功能更齐全。 
 
 
-#### :fa-weixin:  联系我们
+####   联系我们
 
 ## 欢迎添加官网qq群：280470323 
 ## 客服qq：507758588 
@@ -18,14 +18,14 @@ V7全新商业版（V7版是付费的 售价299起） 采用tp6+vue2开发，速
 ## 商业版官网：www.nodcloud.com
 
 
-#### :fa-thumb-tack:  介绍
+#### 介绍
 点可云进销存系统，基于thinkphp+layui开发。
 功能包含：采购、销售、零售、多仓库管理、财务管理等功能 和超详细的报表功能（采购报表、销售报表、零售报表、仓库报表、资金报表等）
 
-#### :fa-paperclip:  软件架构
+####   软件架构
 thinkphp+layui
 
-####  :fa-check-circle:   功能概览
+####     功能概览
 
 ```
 购货
@@ -70,7 +70,7 @@ thinkphp+layui
 ![输入图片说明](view/gndaotu.png)
 
 
-#### :fa-smile-o:  安装提示
+####   安装提示
 
 > V6版本运行环境  PHP：5.6-7.3   MySQL： 5.6-5.7
 
@@ -85,7 +85,7 @@ thinkphp+layui
 > 点可云ERP教程—关闭数据库严格模式  www.bilibili.com/video/BV1F54y1A7Vc
 
 
-## :tw-1f50a:  开源版使用须知
+##   开源版使用须知
 版权信息
 1. 允许用于个人学习、毕业设计、教学案例、公益事业；
 
@@ -94,7 +94,7 @@ thinkphp+layui
 3. 禁止将本项目的代码和资源进行任何形式的出售，产生的一切任何后果责任由侵权者自负。
 
 
-#### :clap:  系统使用截图
+####   系统使用截图
 
 > 具体使用说明可点击下载查阅 https://share.weiyun.com/6qxJU0FA
 
