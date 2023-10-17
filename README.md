@@ -16,7 +16,7 @@ V7全新商业版（V7版是付费的 售价299起） 采用tp6+vue2开发，速
 ## 客服qq：507758588 
 ## 客服微信：scxzmt996 
 ## 商业版官网：www.nodcloud.com
-
+![输入图片说明](view/kehu.png)
 
 #### 介绍
 点可云进销存系统，基于thinkphp+layui开发。
